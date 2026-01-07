@@ -1,0 +1,286 @@
+ Title:, Report generated using easywire version: 2020.4.1.7096
+
+ Operator:, Line Supervisor
+ S/N:, 03AA0B0071
+ Final Test Result:, Passed
+ Run Number:, 791
+ Cable Number:, 1
+ Station ID:, ParadiseContinuity
+ Test Date:, 10/29/2025
+ Test Time:, 8:18:01 PM
+ Retry Count:, 0
+ Test Name:, 11989-0312-Continuity-Test-Inv-RevC
+ Total Pages:, _TOTALPAGES_
+ Fixture Status:, 
+
+ Title:, Revision Information
+
+ Last Modified:, 9/29/2025 8:14:56 PM
+ Revision:, 
+ Modified By:, Master Login
+ Comment:, 
+
+ Title:, Error Details
+
+ #, Type, From Points, To Points, Expected 1, Measured 1, Expected 2, Measured 2, Instruction Detail
+
+ Title:, Measured Values
+
+ #, Instruction Type, From Points, To Points, Value Measured, Value Expected, Measured Detail
+ 1, 4WIRE, F1-DIB  (F1), E1-P1  (F1), 188 mOhm, 250 mOhm, Measured 188 mOhm 
+ 2, 4WIRE, F3-DIB  (F2), E3-P1  (F2), 126 mOhm, 250 mOhm, Measured 126 mOhm 
+ 3, 4WIRE, F6-DIB  (F3), E6-P1  (F3), 160 mOhm, 250 mOhm, Measured 160 mOhm 
+ 4, 4WIRE, F8-DIB  (F4), E8-P1  (F4), 135 mOhm, 250 mOhm, Measured 135 mOhm 
+ 5, 4WIRE, F12-DIB  (F5), E12-P1  (F5), 126 mOhm, 250 mOhm, Measured 126 mOhm 
+ 6, 4WIRE, F14-DIB  (F6), E14-P1  (F6), 114 mOhm, 250 mOhm, Measured 114 mOhm 
+ 7, 4WIRE, F17-DIB  (F7), E17-P1  (F7), 126 mOhm, 250 mOhm, Measured 126 mOhm 
+ 8, 4WIRE, F19-DIB  (F8), E19-P1  (F8), 127 mOhm, 250 mOhm, Measured 127 mOhm 
+ 9, 4WIRE, F23-DIB  (F9), E23-P1  (F9), 127 mOhm, 250 mOhm, Measured 127 mOhm 
+ 10, 4WIRE, F25-DIB  (F10), E25-P1  (F10), 110 mOhm, 250 mOhm, Measured 110 mOhm 
+ 11, 4WIRE, F28-DIB  (F11), E28-P1  (F11), 99 mOhm, 250 mOhm, Measured 99 mOhm 
+ 12, 4WIRE, F30-DIB  (F12), E30-P1  (F12), 108 mOhm, 250 mOhm, Measured 108 mOhm 
+ 13, 4WIRE, F34-DIB  (F13), E34-P1  (F13), 108 mOhm, 250 mOhm, Measured 108 mOhm 
+ 14, 4WIRE, F36-DIB  (F14), E36-P1  (F14), 105 mOhm, 250 mOhm, Measured 105 mOhm 
+ 15, 4WIRE, F39-DIB  (F15), E39-P1  (F15), 113 mOhm, 250 mOhm, Measured 113 mOhm 
+ 16, 4WIRE, F41-DIB  (F16), E41-P1  (F16), 104 mOhm, 250 mOhm, Measured 104 mOhm 
+ 17, 4WIRE, F46-DIB  (F17), E46-P1  (F17), 112 mOhm, 250 mOhm, Measured 112 mOhm 
+ 18, 4WIRE, F48-DIB  (F18), E48-P1  (F18), 103 mOhm, 250 mOhm, Measured 103 mOhm 
+ 19, 4WIRE, F51-DIB  (F19), E51-P1  (F19), 100 mOhm, 250 mOhm, Measured 100 mOhm 
+ 20, 4WIRE, F53-DIB  (F20), E53-P1  (F20), 103 mOhm, 250 mOhm, Measured 103 mOhm 
+ 21, 4WIRE, F57-DIB  (F21), E57-P1  (F21), 103 mOhm, 250 mOhm, Measured 103 mOhm 
+ 22, 4WIRE, F59-DIB  (F22), E59-P1  (F22), 114 mOhm, 250 mOhm, Measured 114 mOhm 
+ 23, 4WIRE, F62-DIB  (F23), E62-P1  (F23), 118 mOhm, 250 mOhm, Measured 118 mOhm 
+ 24, 4WIRE, F64-DIB  (F24), E64-P1  (F24), 102 mOhm, 250 mOhm, Measured 102 mOhm 
+ 25, 4WIRE, F68-DIB  (F25), E68-P1  (F25), 99 mOhm, 250 mOhm, Measured 99 mOhm 
+ 26, 4WIRE, F70-DIB  (F26), E70-P1  (F26), 104 mOhm, 250 mOhm, Measured 104 mOhm 
+ 27, 4WIRE, F73-DIB  (F27), E73-P1  (F27), 118 mOhm, 250 mOhm, Measured 118 mOhm 
+ 28, 4WIRE, F75-DIB  (F28), E75-P1  (F28), 102 mOhm, 250 mOhm, Measured 102 mOhm 
+ 29, 4WIRE, F79-DIB  (F29), E79-P1  (F29), 111 mOhm, 250 mOhm, Measured 111 mOhm 
+ 30, 4WIRE, F81-DIB  (F30), E81-P1  (F30), 107 mOhm, 250 mOhm, Measured 107 mOhm 
+ 31, 4WIRE, F84-DIB  (F31), E84-P1  (F31), 106 mOhm, 250 mOhm, Measured 106 mOhm 
+ 32, 4WIRE, F86-DIB  (F32), E86-P1  (F32), 110 mOhm, 250 mOhm, Measured 110 mOhm 
+ 33, 4WIRE, A87-DIB  (F33), E1-P2  (F33), 114 mOhm, 250 mOhm, Measured 114 mOhm 
+ 34, 4WIRE, A85-DIB  (F34), E3-P2  (F34), 159 mOhm, 250 mOhm, Measured 159 mOhm 
+ 35, 4WIRE, A82-DIB  (F35), E6-P2  (F35), 111 mOhm, 250 mOhm, Measured 111 mOhm 
+ 36, 4WIRE, A80-DIB  (F36), E8-P2  (F36), 104 mOhm, 250 mOhm, Measured 104 mOhm 
+ 37, 4WIRE, A76-DIB  (F37), E12-P2  (F37), 121 mOhm, 250 mOhm, Measured 121 mOhm 
+ 38, 4WIRE, A74-DIB  (F38), E14-P2  (F38), 107 mOhm, 250 mOhm, Measured 107 mOhm 
+ 39, 4WIRE, A71-DIB  (F39), E17-P2  (F39), 108 mOhm, 250 mOhm, Measured 108 mOhm 
+ 40, 4WIRE, A69-DIB  (F40), E19-P2  (F40), 112 mOhm, 250 mOhm, Measured 112 mOhm 
+ 41, 4WIRE, A65-DIB  (F41), E23-P2  (F41), 107 mOhm, 250 mOhm, Measured 107 mOhm 
+ 42, 4WIRE, A63-DIB  (F42), E25-P2  (F42), 119 mOhm, 250 mOhm, Measured 119 mOhm 
+ 43, 4WIRE, A60-DIB  (F43), E28-P2  (F43), 107 mOhm, 250 mOhm, Measured 107 mOhm 
+ 44, 4WIRE, A58-DIB  (F44), E30-P2  (F44), 108 mOhm, 250 mOhm, Measured 108 mOhm 
+ 45, 4WIRE, A54-DIB  (F45), E34-P2  (F45), 120 mOhm, 250 mOhm, Measured 120 mOhm 
+ 46, 4WIRE, A52-DIB  (F46), E36-P2  (F46), 114 mOhm, 250 mOhm, Measured 114 mOhm 
+ 47, 4WIRE, A49-DIB  (F47), E39-P2  (F47), 104 mOhm, 250 mOhm, Measured 104 mOhm 
+ 48, 4WIRE, A47-DIB  (F48), E41-P2  (F48), 116 mOhm, 250 mOhm, Measured 116 mOhm 
+ 49, 4WIRE, A42-DIB  (F49), E46-P2  (F49), 118 mOhm, 250 mOhm, Measured 118 mOhm 
+ 50, 4WIRE, A40-DIB  (F50), E48-P2  (F50), 120 mOhm, 250 mOhm, Measured 120 mOhm 
+ 51, 4WIRE, A37-DIB  (F51), E51-P2  (F51), 116 mOhm, 250 mOhm, Measured 116 mOhm 
+ 52, 4WIRE, A35-DIB  (F52), E53-P2  (F52), 109 mOhm, 250 mOhm, Measured 109 mOhm 
+ 53, 4WIRE, A31-DIB  (F53), E57-P2  (F53), 115 mOhm, 250 mOhm, Measured 115 mOhm 
+ 54, 4WIRE, A29-DIB  (F54), E59-P2  (F54), 108 mOhm, 250 mOhm, Measured 108 mOhm 
+ 55, 4WIRE, A26-DIB  (F55), E62-P2  (F55), 108 mOhm, 250 mOhm, Measured 108 mOhm 
+ 56, 4WIRE, A24-DIB  (F56), E64-P2  (F56), 104 mOhm, 250 mOhm, Measured 104 mOhm 
+ 57, 4WIRE, A20-DIB  (F57), E68-P2  (F57), 113 mOhm, 250 mOhm, Measured 113 mOhm 
+ 58, 4WIRE, A18-DIB  (F58), E70-P2  (F58), 112 mOhm, 250 mOhm, Measured 112 mOhm 
+ 59, 4WIRE, A15-DIB  (F59), E73-P2  (F59), 109 mOhm, 250 mOhm, Measured 109 mOhm 
+ 60, 4WIRE, A13-DIB  (F60), E75-P2  (F60), 114 mOhm, 250 mOhm, Measured 114 mOhm 
+ 61, 4WIRE, A9-DIB  (F61), E79-P2  (F61), 114 mOhm, 250 mOhm, Measured 114 mOhm 
+ 62, 4WIRE, A7-DIB  (F62), E81-P2  (F62), 126 mOhm, 250 mOhm, Measured 126 mOhm 
+ 63, 4WIRE, A4-DIB  (F63), E84-P2  (F63), 127 mOhm, 250 mOhm, Measured 127 mOhm 
+ 64, 4WIRE, A2-DIB  (F64), E86-P2  (F64), 129 mOhm, 250 mOhm, Measured 129 mOhm 
+ 65, 4WIRE, F2-DIB  (R1), E2-P1  (R1), 144 mOhm, 250 mOhm, Measured 144 mOhm 
+ 66, 4WIRE, F4-DIB  (R2), E4-P1  (R2), 112 mOhm, 250 mOhm, Measured 112 mOhm 
+ 67, 4WIRE, F7-DIB  (R3), E7-P1  (R3), 114 mOhm, 250 mOhm, Measured 114 mOhm 
+ 68, 4WIRE, F9-DIB  (R4), E9-P1  (R4), 102 mOhm, 250 mOhm, Measured 102 mOhm 
+ 69, 4WIRE, F13-DIB  (R5), E13-P1  (R5), 123 mOhm, 250 mOhm, Measured 123 mOhm 
+ 70, 4WIRE, F15-DIB  (R6), E15-P1  (R6), 102 mOhm, 250 mOhm, Measured 102 mOhm 
+ 71, 4WIRE, F18-DIB  (R7), E18-P1  (R7), 117 mOhm, 250 mOhm, Measured 117 mOhm 
+ 72, 4WIRE, F20-DIB  (R8), E20-P1  (R8), 115 mOhm, 250 mOhm, Measured 115 mOhm 
+ 73, 4WIRE, F24-DIB  (R9), E24-P1  (R9), 100 mOhm, 250 mOhm, Measured 100 mOhm 
+ 74, 4WIRE, F26-DIB  (R10), E26-P1  (R10), 94 mOhm, 250 mOhm, Measured 94 mOhm 
+ 75, 4WIRE, F29-DIB  (R11), E29-P1  (R11), 99 mOhm, 250 mOhm, Measured 99 mOhm 
+ 76, 4WIRE, F31-DIB  (R12), E31-P1  (R12), 87 mOhm, 250 mOhm, Measured 87 mOhm 
+ 77, 4WIRE, F35-DIB  (R13), E35-P1  (R13), 99 mOhm, 250 mOhm, Measured 99 mOhm 
+ 78, 4WIRE, F37-DIB  (R14), E37-P1  (R14), 100 mOhm, 250 mOhm, Measured 100 mOhm 
+ 79, 4WIRE, F40-DIB  (R15), E40-P1  (R15), 89 mOhm, 250 mOhm, Measured 89 mOhm 
+ 80, 4WIRE, F42-DIB  (R16), E42-P1  (R16), 108 mOhm, 250 mOhm, Measured 108 mOhm 
+ 81, 4WIRE, F47-DIB  (R17), E47-P1  (R17), 95 mOhm, 250 mOhm, Measured 95 mOhm 
+ 82, 4WIRE, F49-DIB  (R18), E49-P1  (R18), 102 mOhm, 250 mOhm, Measured 102 mOhm 
+ 83, 4WIRE, F52-DIB  (R19), E52-P1  (R19), 89 mOhm, 250 mOhm, Measured 89 mOhm 
+ 84, 4WIRE, F54-DIB  (R20), E54-P1  (R20), 95 mOhm, 250 mOhm, Measured 95 mOhm 
+ 85, 4WIRE, F58-DIB  (R21), E58-P1  (R21), 104 mOhm, 250 mOhm, Measured 104 mOhm 
+ 86, 4WIRE, F60-DIB  (R22), E60-P1  (R22), 99 mOhm, 250 mOhm, Measured 99 mOhm 
+ 87, 4WIRE, F63-DIB  (R23), E63-P1  (R23), 86 mOhm, 250 mOhm, Measured 86 mOhm 
+ 88, 4WIRE, F65-DIB  (R24), E65-P1  (R24), 91 mOhm, 250 mOhm, Measured 91 mOhm 
+ 89, 4WIRE, F69-DIB  (R25), E69-P1  (R25), 95 mOhm, 250 mOhm, Measured 95 mOhm 
+ 90, 4WIRE, F71-DIB  (R26), E71-P1  (R26), 104 mOhm, 250 mOhm, Measured 104 mOhm 
+ 91, 4WIRE, F74-DIB  (R27), E74-P1  (R27), 146 mOhm, 250 mOhm, Measured 146 mOhm 
+ 92, 4WIRE, F76-DIB  (R28), E76-P1  (R28), 102 mOhm, 250 mOhm, Measured 102 mOhm 
+ 93, 4WIRE, F80-DIB  (R29), E80-P1  (R29), 94 mOhm, 250 mOhm, Measured 94 mOhm 
+ 94, 4WIRE, F82-DIB  (R30), E82-P1  (R30), 90 mOhm, 250 mOhm, Measured 90 mOhm 
+ 95, 4WIRE, F85-DIB  (R31), E85-P1  (R31), 97 mOhm, 250 mOhm, Measured 97 mOhm 
+ 96, 4WIRE, F87-DIB  (R32), E87-P1  (R32), 144 mOhm, 250 mOhm, Measured 144 mOhm 
+ 97, 4WIRE, A86-DIB  (R33), E2-P2  (R33), 101 mOhm, 250 mOhm, Measured 101 mOhm 
+ 98, 4WIRE, A84-DIB  (R34), E4-P2  (R34), 98 mOhm, 250 mOhm, Measured 98 mOhm 
+ 99, 4WIRE, A81-DIB  (R35), E7-P2  (R35), 95 mOhm, 250 mOhm, Measured 95 mOhm 
+ 100, 4WIRE, A79-DIB  (R36), E9-P2  (R36), 94 mOhm, 250 mOhm, Measured 94 mOhm 
+ 101, 4WIRE, A75-DIB  (R37), E13-P2  (R37), 112 mOhm, 250 mOhm, Measured 112 mOhm 
+ 102, 4WIRE, A73-DIB  (R38), E15-P2  (R38), 94 mOhm, 250 mOhm, Measured 94 mOhm 
+ 103, 4WIRE, A70-DIB  (R39), E18-P2  (R39), 92 mOhm, 250 mOhm, Measured 92 mOhm 
+ 104, 4WIRE, A68-DIB  (R40), E20-P2  (R40), 120 mOhm, 250 mOhm, Measured 120 mOhm 
+ 105, 4WIRE, A64-DIB  (R41), E24-P2  (R41), 91 mOhm, 250 mOhm, Measured 91 mOhm 
+ 106, 4WIRE, A62-DIB  (R42), E26-P2  (R42), 95 mOhm, 250 mOhm, Measured 95 mOhm 
+ 107, 4WIRE, A59-DIB  (R43), E29-P2  (R43), 99 mOhm, 250 mOhm, Measured 99 mOhm 
+ 108, 4WIRE, A57-DIB  (R44), E31-P2  (R44), 99 mOhm, 250 mOhm, Measured 99 mOhm 
+ 109, 4WIRE, A53-DIB  (R45), E35-P2  (R45), 99 mOhm, 250 mOhm, Measured 99 mOhm 
+ 110, 4WIRE, A51-DIB  (R46), E37-P2  (R46), 90 mOhm, 250 mOhm, Measured 90 mOhm 
+ 111, 4WIRE, A48-DIB  (R47), E40-P2  (R47), 108 mOhm, 250 mOhm, Measured 108 mOhm 
+ 112, 4WIRE, A46-DIB  (R48), E42-P2  (R48), 105 mOhm, 250 mOhm, Measured 105 mOhm 
+ 113, 4WIRE, A41-DIB  (R49), E47-P2  (R49), 89 mOhm, 250 mOhm, Measured 89 mOhm 
+ 114, 4WIRE, A39-DIB  (R50), E49-P2  (R50), 120 mOhm, 250 mOhm, Measured 120 mOhm 
+ 115, 4WIRE, A36-DIB  (R51), E52-P2  (R51), 115 mOhm, 250 mOhm, Measured 115 mOhm 
+ 116, 4WIRE, A34-DIB  (R52), E54-P2  (R52), 99 mOhm, 250 mOhm, Measured 99 mOhm 
+ 117, 4WIRE, A30-DIB  (R53), E58-P2  (R53), 102 mOhm, 250 mOhm, Measured 102 mOhm 
+ 118, 4WIRE, A28-DIB  (R54), E60-P2  (R54), 103 mOhm, 250 mOhm, Measured 103 mOhm 
+ 119, 4WIRE, A25-DIB  (R55), E63-P2  (R55), 102 mOhm, 250 mOhm, Measured 102 mOhm 
+ 120, 4WIRE, A23-DIB  (R56), E65-P2  (R56), 100 mOhm, 250 mOhm, Measured 100 mOhm 
+ 121, 4WIRE, A19-DIB  (R57), E69-P2  (R57), 95 mOhm, 250 mOhm, Measured 95 mOhm 
+ 122, 4WIRE, A17-DIB  (R58), E71-P2  (R58), 105 mOhm, 250 mOhm, Measured 105 mOhm 
+ 123, 4WIRE, A14-DIB  (R59), E74-P2  (R59), 117 mOhm, 250 mOhm, Measured 117 mOhm 
+ 124, 4WIRE, A12-DIB  (R60), E76-P2  (R60), 92 mOhm, 250 mOhm, Measured 92 mOhm 
+ 125, 4WIRE, A8-DIB  (R61), E80-P2  (R61), 117 mOhm, 250 mOhm, Measured 117 mOhm 
+ 126, 4WIRE, A6-DIB  (R62), E82-P2  (R62), 107 mOhm, 250 mOhm, Measured 107 mOhm 
+ 127, 4WIRE, A3-DIB  (R63), E85-P2  (R63), 191 mOhm, 250 mOhm, Measured 191 mOhm 
+ 128, 4WIRE, A1-DIB  (R64), E87-P2  (R64), 147 mOhm, 250 mOhm, Measured 147 mOhm 
+ 129, 4WIRE, E1-DIB  (FS1), A1-P1  (FS1), 135 mOhm, 300 mOhm, Measured 135 mOhm 
+ 130, 4WIRE, E3-DIB  (FS2), A3-P1  (FS2), 177 mOhm, 300 mOhm, Measured 177 mOhm 
+ 131, 4WIRE, E6-DIB  (FS3), A6-P1  (FS3), 126 mOhm, 300 mOhm, Measured 126 mOhm 
+ 132, 4WIRE, E8-DIB  (FS4), A8-P1  (FS4), 174 mOhm, 300 mOhm, Measured 174 mOhm 
+ 133, 4WIRE, E12-DIB  (FS5), A12-P1  (FS5), 144 mOhm, 300 mOhm, Measured 144 mOhm 
+ 134, 4WIRE, E14-DIB  (FS6), A14-P1  (FS6), 127 mOhm, 300 mOhm, Measured 127 mOhm 
+ 135, 4WIRE, E17-DIB  (FS7), A17-P1  (FS7), 124 mOhm, 300 mOhm, Measured 124 mOhm 
+ 136, 4WIRE, E19-DIB  (FS8), A19-P1  (FS8), 131 mOhm, 300 mOhm, Measured 131 mOhm 
+ 137, 4WIRE, E23-DIB  (FS9), A23-P1  (FS9), 115 mOhm, 300 mOhm, Measured 115 mOhm 
+ 138, 4WIRE, E25-DIB  (FS10), A25-P1  (FS10), 112 mOhm, 300 mOhm, Measured 112 mOhm 
+ 139, 4WIRE, E28-DIB  (FS11), A28-P1  (FS11), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 140, 4WIRE, E30-DIB  (FS12), A30-P1  (FS12), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 141, 4WIRE, E34-DIB  (FS13), A34-P1  (FS13), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 142, 4WIRE, E36-DIB  (FS14), A36-P1  (FS14), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 143, 4WIRE, E39-DIB  (FS15), A39-P1  (FS15), 125 mOhm, 300 mOhm, Measured 125 mOhm 
+ 144, 4WIRE, E41-DIB  (FS16), A41-P1  (FS16), 115 mOhm, 300 mOhm, Measured 115 mOhm 
+ 145, 4WIRE, E46-DIB  (FS17), A46-P1  (FS17), 124 mOhm, 300 mOhm, Measured 124 mOhm 
+ 146, 4WIRE, E48-DIB  (FS18), A48-P1  (FS18), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 147, 4WIRE, E51-DIB  (FS19), A51-P1  (FS19), 113 mOhm, 300 mOhm, Measured 113 mOhm 
+ 148, 4WIRE, E53-DIB  (FS20), A53-P1  (FS20), 111 mOhm, 300 mOhm, Measured 111 mOhm 
+ 149, 4WIRE, E57-DIB  (FS21), A57-P1  (FS21), 117 mOhm, 300 mOhm, Measured 117 mOhm 
+ 150, 4WIRE, E59-DIB  (FS22), A59-P1  (FS22), 118 mOhm, 300 mOhm, Measured 118 mOhm 
+ 151, 4WIRE, E62-DIB  (FS23), A62-P1  (FS23), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 152, 4WIRE, E64-DIB  (FS24), A64-P1  (FS24), 124 mOhm, 300 mOhm, Measured 124 mOhm 
+ 153, 4WIRE, E68-DIB  (FS25), A68-P1  (FS25), 121 mOhm, 300 mOhm, Measured 121 mOhm 
+ 154, 4WIRE, E70-DIB  (FS26), A70-P1  (FS26), 114 mOhm, 300 mOhm, Measured 114 mOhm 
+ 155, 4WIRE, E73-DIB  (FS27), A73-P1  (FS27), 117 mOhm, 300 mOhm, Measured 117 mOhm 
+ 156, 4WIRE, E75-DIB  (FS28), A75-P1  (FS28), 114 mOhm, 300 mOhm, Measured 114 mOhm 
+ 157, 4WIRE, E79-DIB  (FS29), A79-P1  (FS29), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 158, 4WIRE, E81-DIB  (FS30), A81-P1  (FS30), 122 mOhm, 300 mOhm, Measured 122 mOhm 
+ 159, 4WIRE, E84-DIB  (FS31), A84-P1  (FS31), 126 mOhm, 300 mOhm, Measured 126 mOhm 
+ 160, 4WIRE, E86-DIB  (FS32), A86-P1  (FS32), 131 mOhm, 300 mOhm, Measured 131 mOhm 
+ 161, 4WIRE, C87-DIB  (FS33), A1-P2  (FS33), 158 mOhm, 300 mOhm, Measured 158 mOhm 
+ 162, 4WIRE, C85-DIB  (FS34), A3-P2  (FS34), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 163, 4WIRE, C82-DIB  (FS35), A6-P2  (FS35), 118 mOhm, 300 mOhm, Measured 118 mOhm 
+ 164, 4WIRE, C80-DIB  (FS36), A8-P2  (FS36), 117 mOhm, 300 mOhm, Measured 117 mOhm 
+ 165, 4WIRE, C76-DIB  (FS37), A12-P2  (FS37), 131 mOhm, 300 mOhm, Measured 131 mOhm 
+ 166, 4WIRE, C74-DIB  (FS38), A14-P2  (FS38), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 167, 4WIRE, C71-DIB  (FS39), A17-P2  (FS39), 110 mOhm, 300 mOhm, Measured 110 mOhm 
+ 168, 4WIRE, C69-DIB  (FS40), A19-P2  (FS40), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 169, 4WIRE, C65-DIB  (FS41), A23-P2  (FS41), 126 mOhm, 300 mOhm, Measured 126 mOhm 
+ 170, 4WIRE, C63-DIB  (FS42), A25-P2  (FS42), 121 mOhm, 300 mOhm, Measured 121 mOhm 
+ 171, 4WIRE, C60-DIB  (FS43), A28-P2  (FS43), 127 mOhm, 300 mOhm, Measured 127 mOhm 
+ 172, 4WIRE, C58-DIB  (FS44), A30-P2  (FS44), 124 mOhm, 300 mOhm, Measured 124 mOhm 
+ 173, 4WIRE, C54-DIB  (FS45), A34-P2  (FS45), 128 mOhm, 300 mOhm, Measured 128 mOhm 
+ 174, 4WIRE, C52-DIB  (FS46), A36-P2  (FS46), 115 mOhm, 300 mOhm, Measured 115 mOhm 
+ 175, 4WIRE, C49-DIB  (FS47), A39-P2  (FS47), 118 mOhm, 300 mOhm, Measured 118 mOhm 
+ 176, 4WIRE, C47-DIB  (FS48), A41-P2  (FS48), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 177, 4WIRE, C42-DIB  (FS49), A46-P2  (FS49), 142 mOhm, 300 mOhm, Measured 142 mOhm 
+ 178, 4WIRE, C40-DIB  (FS50), A48-P2  (FS50), 127 mOhm, 300 mOhm, Measured 127 mOhm 
+ 179, 4WIRE, C37-DIB  (FS51), A51-P2  (FS51), 115 mOhm, 300 mOhm, Measured 115 mOhm 
+ 180, 4WIRE, C35-DIB  (FS52), A53-P2  (FS52), 118 mOhm, 300 mOhm, Measured 118 mOhm 
+ 181, 4WIRE, C31-DIB  (FS53), A57-P2  (FS53), 122 mOhm, 300 mOhm, Measured 122 mOhm 
+ 182, 4WIRE, C29-DIB  (FS54), A59-P2  (FS54), 117 mOhm, 300 mOhm, Measured 117 mOhm 
+ 183, 4WIRE, C26-DIB  (FS55), A62-P2  (FS55), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 184, 4WIRE, C24-DIB  (FS56), A64-P2  (FS56), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 185, 4WIRE, C20-DIB  (FS57), A68-P2  (FS57), 123 mOhm, 300 mOhm, Measured 123 mOhm 
+ 186, 4WIRE, C18-DIB  (FS58), A70-P2  (FS58), 118 mOhm, 300 mOhm, Measured 118 mOhm 
+ 187, 4WIRE, C15-DIB  (FS59), A73-P2  (FS59), 121 mOhm, 300 mOhm, Measured 121 mOhm 
+ 188, 4WIRE, C13-DIB  (FS60), A75-P2  (FS60), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 189, 4WIRE, C9-DIB  (FS61), A79-P2  (FS61), 125 mOhm, 300 mOhm, Measured 125 mOhm 
+ 190, 4WIRE, C7-DIB  (FS62), A81-P2  (FS62), 165 mOhm, 300 mOhm, Measured 165 mOhm 
+ 191, 4WIRE, C4-DIB  (FS63), A84-P2  (FS63), 136 mOhm, 300 mOhm, Measured 136 mOhm 
+ 192, 4WIRE, C2-DIB  (FS64), A86-P2  (FS64), 161 mOhm, 300 mOhm, Measured 161 mOhm 
+ 193, 4WIRE, E2-DIB  (RS1), A2-P1  (RS1), 167 mOhm, 300 mOhm, Measured 167 mOhm 
+ 194, 4WIRE, E4-DIB  (RS2), A4-P1  (RS2), 163 mOhm, 300 mOhm, Measured 163 mOhm 
+ 195, 4WIRE, E7-DIB  (RS3), A7-P1  (RS3), 128 mOhm, 300 mOhm, Measured 128 mOhm 
+ 196, 4WIRE, E9-DIB  (RS4), A9-P1  (RS4), 116 mOhm, 300 mOhm, Measured 116 mOhm 
+ 197, 4WIRE, E13-DIB  (RS5), A13-P1  (RS5), 124 mOhm, 300 mOhm, Measured 124 mOhm 
+ 198, 4WIRE, E15-DIB  (RS6), A15-P1  (RS6), 132 mOhm, 300 mOhm, Measured 132 mOhm 
+ 199, 4WIRE, E18-DIB  (RS7), A18-P1  (RS7), 125 mOhm, 300 mOhm, Measured 125 mOhm 
+ 200, 4WIRE, E20-DIB  (RS8), A20-P1  (RS8), 125 mOhm, 300 mOhm, Measured 125 mOhm 
+ 201, 4WIRE, E24-DIB  (RS9), A24-P1  (RS9), 122 mOhm, 300 mOhm, Measured 122 mOhm 
+ 202, 4WIRE, E26-DIB  (RS10), A26-P1  (RS10), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 203, 4WIRE, E29-DIB  (RS11), A29-P1  (RS11), 116 mOhm, 300 mOhm, Measured 116 mOhm 
+ 204, 4WIRE, E31-DIB  (RS12), A31-P1  (RS12), 121 mOhm, 300 mOhm, Measured 121 mOhm 
+ 205, 4WIRE, E35-DIB  (RS13), A35-P1  (RS13), 122 mOhm, 300 mOhm, Measured 122 mOhm 
+ 206, 4WIRE, E37-DIB  (RS14), A37-P1  (RS14), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 207, 4WIRE, E40-DIB  (RS15), A40-P1  (RS15), 128 mOhm, 300 mOhm, Measured 128 mOhm 
+ 208, 4WIRE, E42-DIB  (RS16), A42-P1  (RS16), 121 mOhm, 300 mOhm, Measured 121 mOhm 
+ 209, 4WIRE, E47-DIB  (RS17), A47-P1  (RS17), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 210, 4WIRE, E49-DIB  (RS18), A49-P1  (RS18), 154 mOhm, 300 mOhm, Measured 154 mOhm 
+ 211, 4WIRE, E52-DIB  (RS19), A52-P1  (RS19), 106 mOhm, 300 mOhm, Measured 106 mOhm 
+ 212, 4WIRE, E54-DIB  (RS20), A54-P1  (RS20), 114 mOhm, 300 mOhm, Measured 114 mOhm 
+ 213, 4WIRE, E58-DIB  (RS21), A58-P1  (RS21), 124 mOhm, 300 mOhm, Measured 124 mOhm 
+ 214, 4WIRE, E60-DIB  (RS22), A60-P1  (RS22), 118 mOhm, 300 mOhm, Measured 118 mOhm 
+ 215, 4WIRE, E63-DIB  (RS23), A63-P1  (RS23), 117 mOhm, 300 mOhm, Measured 117 mOhm 
+ 216, 4WIRE, E65-DIB  (RS24), A65-P1  (RS24), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 217, 4WIRE, E69-DIB  (RS25), A69-P1  (RS25), 115 mOhm, 300 mOhm, Measured 115 mOhm 
+ 218, 4WIRE, E71-DIB  (RS26), A71-P1  (RS26), 117 mOhm, 300 mOhm, Measured 117 mOhm 
+ 219, 4WIRE, E74-DIB  (RS27), A74-P1  (RS27), 118 mOhm, 300 mOhm, Measured 118 mOhm 
+ 220, 4WIRE, E76-DIB  (RS28), A76-P1  (RS28), 110 mOhm, 300 mOhm, Measured 110 mOhm 
+ 221, 4WIRE, E80-DIB  (RS29), A80-P1  (RS29), 116 mOhm, 300 mOhm, Measured 116 mOhm 
+ 222, 4WIRE, E82-DIB  (RS30), A82-P1  (RS30), 122 mOhm, 300 mOhm, Measured 122 mOhm 
+ 223, 4WIRE, E85-DIB  (RS31), A85-P1  (RS31), 124 mOhm, 300 mOhm, Measured 124 mOhm 
+ 224, 4WIRE, E87-DIB  (RS32), A87-P1  (RS32), 137 mOhm, 300 mOhm, Measured 137 mOhm 
+ 225, 4WIRE, C86-DIB  (RS33), A2-P2  (RS33), 111 mOhm, 300 mOhm, Measured 111 mOhm 
+ 226, 4WIRE, C84-DIB  (RS34), A4-P2  (RS34), 131 mOhm, 300 mOhm, Measured 131 mOhm 
+ 227, 4WIRE, C81-DIB  (RS35), A7-P2  (RS35), 135 mOhm, 300 mOhm, Measured 135 mOhm 
+ 228, 4WIRE, C79-DIB  (RS36), A9-P2  (RS36), 121 mOhm, 300 mOhm, Measured 121 mOhm 
+ 229, 4WIRE, C75-DIB  (RS37), A13-P2  (RS37), 113 mOhm, 300 mOhm, Measured 113 mOhm 
+ 230, 4WIRE, C73-DIB  (RS38), A15-P2  (RS38), 113 mOhm, 300 mOhm, Measured 113 mOhm 
+ 231, 4WIRE, C70-DIB  (RS39), A18-P2  (RS39), 145 mOhm, 300 mOhm, Measured 145 mOhm 
+ 232, 4WIRE, C68-DIB  (RS40), A20-P2  (RS40), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 233, 4WIRE, C64-DIB  (RS41), A24-P2  (RS41), 113 mOhm, 300 mOhm, Measured 113 mOhm 
+ 234, 4WIRE, C62-DIB  (RS42), A26-P2  (RS42), 119 mOhm, 300 mOhm, Measured 119 mOhm 
+ 235, 4WIRE, C59-DIB  (RS43), A29-P2  (RS43), 112 mOhm, 300 mOhm, Measured 112 mOhm 
+ 236, 4WIRE, C57-DIB  (RS44), A31-P2  (RS44), 115 mOhm, 300 mOhm, Measured 115 mOhm 
+ 237, 4WIRE, C53-DIB  (RS45), A35-P2  (RS45), 129 mOhm, 300 mOhm, Measured 129 mOhm 
+ 238, 4WIRE, C51-DIB  (RS46), A37-P2  (RS46), 113 mOhm, 300 mOhm, Measured 113 mOhm 
+ 239, 4WIRE, C48-DIB  (RS47), A40-P2  (RS47), 132 mOhm, 300 mOhm, Measured 132 mOhm 
+ 240, 4WIRE, C46-DIB  (RS48), A42-P2  (RS48), 132 mOhm, 300 mOhm, Measured 132 mOhm 
+ 241, 4WIRE, C41-DIB  (RS49), A47-P2  (RS49), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 242, 4WIRE, C39-DIB  (RS50), A49-P2  (RS50), 122 mOhm, 300 mOhm, Measured 122 mOhm 
+ 243, 4WIRE, C36-DIB  (RS51), A52-P2  (RS51), 121 mOhm, 300 mOhm, Measured 121 mOhm 
+ 244, 4WIRE, C34-DIB  (RS52), A54-P2  (RS52), 118 mOhm, 300 mOhm, Measured 118 mOhm 
+ 245, 4WIRE, C30-DIB  (RS53), A58-P2  (RS53), 110 mOhm, 300 mOhm, Measured 110 mOhm 
+ 246, 4WIRE, C28-DIB  (RS54), A60-P2  (RS54), 120 mOhm, 300 mOhm, Measured 120 mOhm 
+ 247, 4WIRE, C25-DIB  (RS55), A63-P2  (RS55), 111 mOhm, 300 mOhm, Measured 111 mOhm 
+ 248, 4WIRE, C23-DIB  (RS56), A65-P2  (RS56), 117 mOhm, 300 mOhm, Measured 117 mOhm 
+ 249, 4WIRE, C19-DIB  (RS57), A69-P2  (RS57), 112 mOhm, 300 mOhm, Measured 112 mOhm 
+ 250, 4WIRE, C17-DIB  (RS58), A71-P2  (RS58), 118 mOhm, 300 mOhm, Measured 118 mOhm 
+ 251, 4WIRE, C14-DIB  (RS59), A74-P2  (RS59), 116 mOhm, 300 mOhm, Measured 116 mOhm 
+ 252, 4WIRE, C12-DIB  (RS60), A76-P2  (RS60), 123 mOhm, 300 mOhm, Measured 123 mOhm 
+ 253, 4WIRE, C8-DIB  (RS61), A80-P2  (RS61), 200 mOhm, 300 mOhm, Measured 200 mOhm 
+ 254, 4WIRE, C6-DIB  (RS62), A82-P2  (RS62), 136 mOhm, 300 mOhm, Measured 136 mOhm 
+ 255, 4WIRE, C3-DIB  (RS63), A85-P2  (RS63), 205 mOhm, 300 mOhm, Measured 205 mOhm 
+ 256, 4WIRE, C1-DIB  (RS64), A87-P2  (RS64), 192 mOhm, 300 mOhm, Measured 192 mOhm 
+

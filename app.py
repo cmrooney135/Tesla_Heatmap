@@ -13,9 +13,34 @@ st.title("Heatmap Visualization for Cables")
 os.makedirs("temp", exist_ok=True)
 uploaded_files = st.file_uploader("Upload your CSV files", type="csv", accept_multiple_files=True)
 cables = []
+
+pattern = re.compile(r"0[0-4].{8}")
+
 if uploaded_files:
     for uploaded_file in uploaded_files:
         serial_number = "Unknown"
+        match = pattern.search(uploaded_file.title)  # or uploaded_file.name
+        if match:
+            serial_number = match.group()
+            if len(serial_number) >= 2:
+                    first_two_digits = serial_number[:2]
+                    second_digit = first_two_digits[1]          
+                    if second_digit == "0":
+                        cable_type = "Paradise"
+                        cable_length = 11
+                    elif second_digit == "1":
+                        cable_type = "Paradise"
+                        cable_length = 15
+                    elif second_digit == "3":
+                        cable_type = "Tesla"
+                        cable_length = 11
+                    elif second_digit == "4":
+                        cable_type = "Tesla"
+                        cable_length = 15
+
+            cable = Cable(cable_type, cable_length, serial_number)
+            
+
     # Upload and split the file
         upload_and_split_file(uploaded_file)
         with open("temp/txt_temp.txt", "r", encoding="utf-8") as txt_file:
