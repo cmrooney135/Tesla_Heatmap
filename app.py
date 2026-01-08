@@ -122,7 +122,7 @@ if uploaded_files:
 
             process_csv(cable, uploaded_file)
 
-    COL_LAYOUT = [3, 3, 2, 5, 5, 4]
+    COL_LAYOUT = [1, 1, 1, 5, 5, 2]
     st.subheader("Processed Cables")
 
 
@@ -157,20 +157,21 @@ if uploaded_files:
         if cols[3].button(
             "Generate",
             key=f"leakage_{cable.serial_number}",
-            disabled=disabled_leakage
+            disabled=st.session_state[show_key_leak]
         ):
             st.session_state[show_key_leak] = True
             
         if cols[4].button(
             "Generate",
             key=f"leakage_1s_{cable.serial_number}",
-            disabled=disabled_1s
+            disabled=st.session_state[show_key_1s]
         ):
             st.session_state[show_key_1s] = True
         
         if st.session_state[show_key_leak]:
             fig_leak, ax_leak = cable.draw_heatmap("leakage")
             cols[3].pyplot(fig_leak, use_container_width=True)
+
 
         if st.session_state[show_key_1s]:
             fig_1s, ax_1s = cable.draw_heatmap("1s")
